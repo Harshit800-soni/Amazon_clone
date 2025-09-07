@@ -1,23 +1,23 @@
 # Amazon_clone
-Amazon Clone
+<h1><b>Amazon Clone</b></h1><br>
 A responsive front-end implementation of the Amazon e-commerce website, built using pure HTML and CSS. This project demonstrates modern web design techniques and responsive layout principles.
+<br>
+<h2>Features:</h2><br>
+Responsive design that works on desktop, tablet, and mobile devices<br>
 
-Features:
-Responsive design that works on desktop, tablet, and mobile devices
+Faithful recreation of Amazon's visual style and layout<br>
 
-Faithful recreation of Amazon's visual style and layout
+Navigation bar with search functionality.<br>
 
-Navigation bar with search functionality
+Product grid display with cards.<br>
 
-Product grid display with cards
+Footer with multiple sections.<br>
 
-Footer with multiple sections
+<h2>Technologies Used:</h2><br>
+HTML5<br>
 
-Technologies Used:
-HTML5
+CSS3 (Flexbox/Grid for layout).<br>
 
-CSS3 (Flexbox/Grid for layout)
-
-Responsive design principles
+Responsive design principles.<br>
 
 This is a front-end only implementation focused on UI/UX replication.
